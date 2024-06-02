@@ -1,5 +1,0 @@
-2. Connectivity and Availability
-
-a. Internet Connectivity. Amazon Services may require an Internet connection from a third-party provider in order to use some features. In such cases, your Internet connection is subject to the fees, restrictions, terms and limitations imposed by your provider.
-
-b. Availability. Some Amazon Services may be unavailable, vary (by product or geography, for example), be offered for a limited time, or require separate subscriptions.

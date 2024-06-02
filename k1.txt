@@ -1,0 +1,7 @@
+1. Amazon Services, Amazon Software
+
+a. Use of Amazon Services on a Product. To use certain Amazon Services on a Product, you must have your own Amazon.com account, be logged in to your account on the Product, and have a valid payment method associated with your account.
+
+b. Use of the Amazon Software. Except as provided in this section, you may use the Amazon Software only on your Product. For additional terms that apply to the Amazon Software, see the Additional Amazon Software Terms contained in the Amazon.com Conditions of Use and the terms contained in the Legal section of the Settings menu of the Amazon Services on your Product or the Amazon Fire TV Remote App. Amazon Software licensed under an open source license is governed solely by the terms of that open source license.
+
+c. Voice Services. Your Product may have features that allow you to access Alexa voice services or perform certain tasks, such as control your Product, perform a search, check the weather, or operate other connected products. When you use voice services, we process your voice input and other information (such as location) in the cloud to respond to your requests and to improve your experience and our services. Your use of Alexa is subject to the Alexa Terms of Use (www.amazon.com/alexa/terms). Learn more about Alexa voice services and how it works at www.amazon.com/alexa/voice, including how to delete voice recordings associated with your account.

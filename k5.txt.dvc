@@ -1,0 +1,5 @@
+outs:
+- md5: 5058a1359225ffd62bb237f7acc4f3d1
+  size: 45
+  hash: md5
+  path: k5.txt

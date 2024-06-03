@@ -1,0 +1,6 @@
+[core]
+    autostage = true
+    remote = knowledge-dvc
+['remote "knowledge-dvc"']
+    url = s3://knowledge-dvc/data/
+    connect_timeout = 300
